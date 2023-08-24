@@ -13,7 +13,7 @@ namespace UNUMSelfPwdReset
                     ,Username= Username
                     ,LastSignInAt=DateTime.Now
                     , HasAccess= true,
-                     ExpireInDays= pwdChangedOn.HasValue ? Convert.ToInt16((pwdChangedOn.Value.AddDays(365) - DateTime.Now).TotalDays ): null,
+                     ExpireInDays= pwdChangedOn.HasValue ? Convert.ToInt16((pwdChangedOn.Value.AddDays(90) - DateTime.Now).TotalDays ): null,
             }
               
             };
