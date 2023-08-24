@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectEvaluation/unum.metadata.v5.2
+/.vs/VSWorkspaceState.json
+/.vs/UNUM-23-08/v17/workspaceFileList.bin
+/.vs/UNUM/v17/.suo
+/.vs/UNUM/v17/.futdcache.v2
+/.vs/UNUM/FileContentIndex/9bdc9c7a-d96d-4b8b-a86a-b3be79fdacde.vsidx
+/.vs/UNUM/FileContentIndex/73a4b813-0bf0-4d99-8db5-856e10f966bd.vsidx
+/.vs/UNUM/FileContentIndex/3babdaf9-56af-45da-ae98-07d330a70e13.vsidx
+/.vs/UNUM/FileContentIndex/0d05aef4-2ff0-450a-8bc5-f455ec2572a2.vsidx
+/.vs/UNUM/DesignTimeBuild/.dtbcache.v2
+/.vs/slnx.sqlite
+/.vs/ProjectEvaluation/unum.projects.v5.2
